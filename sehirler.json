@@ -1,0 +1,72 @@
+[
+  {
+    "isim": "Istanbul",
+    "bolge": "Marmara",
+    "nufus": "15.5 Milyon",
+    "meshur": "Boğaz",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/ist.png",
+  },
+  {
+    "isim": "Ankara",
+    "bolge": "İç Anadolu",
+    "nufus": "5.5 Milyon",
+    "meshur": "Kızılay Simidi",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/ank.png",
+  },
+  {
+    "isim": "İzmir",
+    "bolge": "Ege",
+    "nufus": "4.3 Milyon",
+    "meshur": "Boyoz",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/izm.png",
+  },
+  {
+    "isim": "Adana",
+    "bolge": "Akdeniz",
+    "nufus": "2.2 Milyon",
+    "meshur": "Kebap",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/adn.png",
+  },
+  {
+    "isim": "Antalya",
+    "bolge": "Akdeniz",
+    "nufus": "2.4 Milyon",
+    "meshur": "Portakal",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/anl.png",
+  },
+  {
+    "isim": "Aydın",
+    "bolge": "Ege",
+    "nufus": "1 Milyon",
+    "meshur": "İncir",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/ayd.png",
+  },
+  {
+    "isim": "Bitlis",
+    "bolge": "Doğu Anadolu",
+    "nufus": "0.35 Milyon",
+    "meshur": "5 Minare",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/btl.png",
+  },
+  {
+    "isim": "Gaziantep",
+    "bolge": "Güney Doğu Anadolu",
+    "nufus": "2 Milyon",
+    "meshur": "Baklava",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/ant.png",
+  },
+  {
+    "isim": "Trabzon",
+    "bolge": "Karadeniz",
+    "nufus": "0.8 Milyon",
+    "meshur": "Trabzon Ekmeği",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/trb.png",
+  },
+  {
+    "isim": "Van",
+    "bolge": "Doğu Anadolu",
+    "nufus": "1.1 Milyon",
+    "meshur": "Van Kedisi",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/MEB22-KotlinVeriSeti/master/van.png",
+  }
+]
